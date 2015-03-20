@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\Task1.dll
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\Task1.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.pdb

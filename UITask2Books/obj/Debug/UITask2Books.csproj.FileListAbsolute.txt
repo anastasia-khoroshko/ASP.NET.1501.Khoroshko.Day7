@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\UITask2Books.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\UITask2Books.exe
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\UITask2Books.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\Task2.dll
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\Task2.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\obj\Debug\UITask2Books.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\obj\Debug\UITask2Books.exe
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\obj\Debug\UITask2Books.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\NLog.config
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\NLog.dll
+C:\Users\User\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask2Books\bin\Debug\NLog.xml

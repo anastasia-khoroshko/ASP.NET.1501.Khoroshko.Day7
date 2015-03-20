@@ -1,0 +1,60 @@
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: J.London The House of Pride 11589-258-1 5852 892 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: J.London The House of Pride 11589-258-1 5852 892 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: R.Kipling Captains Courageous 25893-22-22-1 60987 688 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: R.Kipling Captains Courageous 25893-22-22-1 60987 688 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: S.King The Green Mile 8974-258-2-3 52874 784 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: S.King The Green Mile 8974-258-2-3 52874 784 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: W.Shakespeare Hamlet 1525-514-D 12899 852 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: M.Mitchel Gone with the Wind 12368-5251-X 189635 785 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: J.London The House of Pride 11589-258-1 5852 892 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: J.London The House of Pride 11589-258-1 5852 892 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: R.Kipling Captains Courageous 25893-22-22-1 60987 688 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: R.Kipling Captains Courageous 25893-22-22-1 60987 688 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: S.King The Green Mile 8974-258-2-3 52874 784 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook Such a book: S.King The Green Mile 8974-258-2-3 52874 784 already exists in the repository!
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
+AppDomain._nExecuteAssembly => Program.Main => BookListService.AddBook    в Task2.BookListService.AddBook(Book book) в c:\Users\User\Documents\Visual Studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task2\BookListService.cs:строка 29
