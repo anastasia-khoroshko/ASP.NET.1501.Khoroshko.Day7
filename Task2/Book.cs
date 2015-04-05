@@ -25,11 +25,8 @@ namespace Task2
         public bool Equals(Book book)
         {
             if (Object.Equals(book, null)) throw new ArgumentNullException("Can not equals null book");
-            if (this.ISBN != book.ISBN) return false;
-            if (this.Title != book.Title) return false;
-            if (this.Author != book.Author) return false;
-            if (this.Copy != book.Copy) return false;
-            if (this.Pages != book.Pages) return false;
+            if (this.ISBN != book.ISBN || this.Title != book.Title || this.Author != book.Author || this.Copy != book.Copy || this.Pages != book.Pages) 
+                return false;
             return true;
         }
 
