@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <ISBN>1525-514-D</ISBN>
+    <Author>W.Shakespeare</Author>
+    <Title>Hamlet</Title>
+    <Copy>12899</Copy>
+    <Pages>852</Pages>
+  </Book>
+  <Book>
+    <ISBN>12368-5251-X</ISBN>
+    <Author>M.Mitchel</Author>
+    <Title>Gone with the Wind</Title>
+    <Copy>189635</Copy>
+    <Pages>785</Pages>
+  </Book>
+  <Book>
+    <ISBN>11589-258-1</ISBN>
+    <Author>J.London</Author>
+    <Title>The House of Pride</Title>
+    <Copy>5852</Copy>
+    <Pages>892</Pages>
+  </Book>
+  <Book>
+    <ISBN>25893-22-22-1</ISBN>
+    <Author>R.Kipling</Author>
+    <Title>Captains Courageous</Title>
+    <Copy>60987</Copy>
+    <Pages>688</Pages>
+  </Book>
+  <Book>
+    <ISBN>8974-258-2-3</ISBN>
+    <Author>S.King</Author>
+    <Title>The Green Mile</Title>
+    <Copy>52874</Copy>
+    <Pages>784</Pages>
+  </Book>
+</Books>

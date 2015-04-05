@@ -11,7 +11,7 @@ namespace UITask2Books
     {
         static void Main(string[] args)
         {
-            BookListService service = new BookListService(new BinaryFileRepository("book.txt"));
+            BookListService service = new BookListService(new BookRepository("book"));
             service.AddBook(new Book()
             {
                 ISBN = "1525-514-D",
@@ -53,19 +53,22 @@ namespace UITask2Books
                 Copy = 52874,
                 Pages = 784
             });
-            var list = service.GetAllBooks();
-            foreach (var el in list)
-                Console.WriteLine(Environment.NewLine+el.ToString());            
-            var res = service.GetBookByAuthor("W.Shakespeare");
-            foreach (var el in res)
-                Console.WriteLine(Environment.NewLine + String.Format("Result search:{0}", el.ToString()));
-            var resTitle = service.GetBookByTitle("Gone");
-            foreach (var el in resTitle)
-                Console.WriteLine(Environment.NewLine + String.Format("Result search:{0}", el.ToString()));
-            service.SortBooks();
-            Console.WriteLine("Sorting");
-            foreach (var el in list)
-                Console.WriteLine(Environment.NewLine + el.ToString());
+            service.Export(new ExportByWritter(),"1.xml");
+            service.Export(new ExportByLinq(), "2.xml");
+            service.GetsBook(delegate(Book x) { return x.Pages > 700; },"res");
+            //var list = service.GetAllBooks();
+            //foreach (var el in list)
+            //    Console.WriteLine(Environment.NewLine+el.ToString());            
+            //var res = service.GetBookByAuthor("W.Shakespeare");
+            //foreach (var el in res)
+            //    Console.WriteLine(Environment.NewLine + String.Format("Result search:{0}", el.ToString()));
+            //var resTitle = service.GetBookByTitle("Gone");
+            //foreach (var el in resTitle)
+            //    Console.WriteLine(Environment.NewLine + String.Format("Result search:{0}", el.ToString()));
+            //service.SortBooks();
+            //Console.WriteLine("Sorting");
+            //foreach (var el in list)
+            //    Console.WriteLine(Environment.NewLine + el.ToString());
             Console.ReadLine();
         }
     }

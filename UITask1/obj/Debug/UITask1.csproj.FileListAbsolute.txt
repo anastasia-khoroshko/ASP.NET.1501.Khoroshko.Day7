@@ -6,3 +6,11 @@ c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.exe
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.pdb
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.exe.config
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.exe
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\UITask1.pdb
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\Task1.dll
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\bin\Debug\Task1.pdb
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.exe
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\UITask1\obj\Debug\UITask1.pdb

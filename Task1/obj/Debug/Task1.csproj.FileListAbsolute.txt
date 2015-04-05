@@ -3,3 +3,8 @@ c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.dll
 c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.pdb
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\Task1\bin\Debug\Task1.dll
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\Task1\bin\Debug\Task1.pdb
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.dll
+C:\Users\User\Documents\GitHub\ASP.NET.1501.Khoroshko.Day7\Task1\obj\Debug\Task1.pdb

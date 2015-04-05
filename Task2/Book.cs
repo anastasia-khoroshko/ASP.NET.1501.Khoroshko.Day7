@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    public class Book : IEquatable<Book>, IComparable<Book>
+    [Serializable] public class Book : IEquatable<Book>, IComparable<Book>
     {
         public string ISBN { get; set; }
         public string Author { get; set; }
